@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1310: Используйте StringComparison, чтобы правильно указать намерение.
+dotnet_diagnostic.CA1310.severity = none
